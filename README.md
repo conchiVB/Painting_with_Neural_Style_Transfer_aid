@@ -61,3 +61,7 @@ For any changes on the settings:
 From Google colab, open streamlit_tfm.py and run the complete code.
 
 The last line !npx localtunnel --port 8501 opens an url, follow the link.
+
+### For further detail, see the documentation 
+
+[TFM paint Style Transfer](TFM_paint_Style_Transfer.pdf)
