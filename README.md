@@ -58,7 +58,7 @@ For any changes on the settings:
 
 #### Client - Visualitation
 
-From Google colab, open streamlit_tfm.py and run the complete code.
+From Google colab, open Run streamlit.ipynb and run the complete code.
 
 The last line !npx localtunnel --port 8501 opens an url, follow the link.
 
